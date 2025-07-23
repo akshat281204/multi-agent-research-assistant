@@ -1,0 +1,8 @@
+crewai>=0.20.7
+langchain>=0.1.14
+langchain-community>=0.0.36
+ollama>=0.1.7
+google-search-results>=2.4.2
+fpdf>=1.7.2
+python-dotenv>=1.0.1
+requests>=2.31.0
