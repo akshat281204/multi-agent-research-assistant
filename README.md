@@ -19,7 +19,6 @@ This repository hosts a powerful multi-agent research assistant designed to auto
 -   [Usage](#usage)
 -   [API Documentation](#api-documentation)
 -   [Contributing](#contributing)
--   [License](#license)
 
 ## Project Description
 
@@ -235,7 +234,3 @@ Contributions are welcome! If you have suggestions for improvements, new feature
 6.  Open a Pull Request.
 
 Please ensure your code adheres to good practices and includes appropriate tests where applicable.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details (assuming a LICENSE file will be added).
